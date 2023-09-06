@@ -1,4 +1,4 @@
-package Especialidades;
+package Pizza.Base.Especialidades;
 
 import Pizza.Base.Pizza;
 import Pizza.Base.*;
